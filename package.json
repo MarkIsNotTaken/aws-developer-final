@@ -1,7 +1,7 @@
 {
   "name": "aws-developer-final",
   "version": "1.0.0",
-  "description": "",
+  "description": "#### Intro You are a developer for Creative Solutions Inc. Your company just aquired a new contract for a local surf company to build out a new and more effective ordering system.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,18 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/junior-devleague/aws-developer-final.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/junior-devleague/aws-developer-final/issues"
   },
-  "homepage": "https://github.com/junior-devleague/aws-developer-final#readme",
-  "dependencies": {
-    "aws-sdk": "^2.259.1",
-    "body-parser": "^1.18.3",
-    "dotenv": "^6.0.0",
-    "express": "^4.16.3",
-    "express-handlebars": "^3.0.0",
-  }
+  "homepage": "https://github.com/junior-devleague/aws-developer-final#readme"
 }
