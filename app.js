@@ -8,7 +8,6 @@ const path = require('path');
 const home = require('./routes/home');
 const order = require('./routes/new-order');
 AWS.config.loadFromPath('./config.json');
-let sqs = new AWS.SQS();
 
 app.use(bodyParser.urlencoded({extended:true}))
 app.use("/public", express.static(path.join(__dirname, 'public')));

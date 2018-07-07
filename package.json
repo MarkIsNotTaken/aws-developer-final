@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/junior-devleague/aws-developer-final/issues"
   },
-  "homepage": "https://github.com/junior-devleague/aws-developer-final#readme"
+  "homepage": "https://github.com/junior-devleague/aws-developer-final#readme",
+  "dependencies": {
+    "nodemon": "^1.17.5"
+  }
 }
